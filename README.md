@@ -26,3 +26,11 @@ Essentially, any artifact through which we can give something back to the ML com
 
 - Participants are good to have a functional understanding of Machine Learning in general.
 - Participants should be comfortable with programming in either R or Python
+
+## Resources
+### Primary Resource
+Primary resource that we aim to cover is the famous ML book by bishop, [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+
+### Other Resources
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- Any other reputable resource
